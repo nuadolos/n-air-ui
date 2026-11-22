@@ -4,7 +4,7 @@
 
 ## Демо
 
--
+После первой публикации приложение будет доступно на [GitHub Pages](https://nuadolos.github.io/n-air-ui/).
 
 ## Локальный запуск
 
@@ -15,7 +15,7 @@ npm ci
 npm run dev
 ```
 
-Откройте адрес из вывода Vite, обычно [http://localhost:5173](http://localhost:5173). 
+Откройте адрес из вывода Vite, обычно [http://localhost:5173/n-air-ui/](http://localhost:5173/n-air-ui/).
 
 ## Ограничения демонстрации
 
